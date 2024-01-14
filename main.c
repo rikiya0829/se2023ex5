@@ -1,5 +1,10 @@
 #include <stido.h>
 int main(void) {
-	printf("hello"):
-		return 0:
+        int i=0;
+	       while(i<10){	
+	printf("hello %d", i);
+		i++;
+	       }
+
+		return 0;
 }
